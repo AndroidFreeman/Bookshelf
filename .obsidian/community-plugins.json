@@ -5,5 +5,7 @@
   "obsidian-epub-plugin",
   "obsidian-icon-folder",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "editing-toolbar"
 ]
