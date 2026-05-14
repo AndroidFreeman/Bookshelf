@@ -1,4 +1,14 @@
 [
   "obsidian-icon-folder",
-  "obsidian-epub-plugin"
+  "obsidian-epub-plugin",
+  "table-editor-obsidian",
+  "obsidian42-brat",
+  "editing-toolbar",
+  "obsidian-kanban",
+  "obsidian-shellcommands",
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "i18n",
+  "obsidian-minimal-settings",
+  "obsidian-git"
 ]
